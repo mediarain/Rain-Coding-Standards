@@ -19,7 +19,6 @@
  <rule ref="Squiz.ControlStructures.InlineIfDeclaration"/>
 <!-- <rule ref="Squiz.WhiteSpace.FunctionSpacing"/>-->
  <rule ref="Squiz.Commenting.VariableComment"/>
- <rule ref="Zend.Files.ClosingTag"/>
 
  <!-- Lines can be 110 chars long, show errors at 120 chars -->
  <rule ref="Generic.Files.LineLength">
