@@ -3,7 +3,6 @@
  <description>A coding standard based on an early Cake coding standard. Note that this standard has been modified as per SANIsoft needs.</description>
 
  <!-- Include some sniffs from all around the place -->
- <rule ref="Generic.PHP.DisallowShortOpenTag"/>
  <rule ref="Generic.NamingConventions.UpperCaseConstantName"/>
  <rule ref="Generic.WhiteSpace.ScopeIndent"/>
  <rule ref="Generic.Formatting.MultipleStatementAlignment"/>
