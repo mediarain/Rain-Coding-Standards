@@ -52,7 +52,7 @@ class Rain_Sniffs_ControlStructures_ControlSignatureSniff extends PHP_CodeSniffe
     protected function getPatterns()
     {
         return array(
-                'do{EOL...}EOLwhile(...);EOL',
+                'while(...);EOL',
                 'while(...)EOL...{',
                 'for(...)EOL...{',
                 'if(...)EOL...{',
